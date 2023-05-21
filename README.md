@@ -1,4 +1,4 @@
-# Pollcast
+# Pollcast 📥📥📥
 Pollcast is a live voting system built with React, Node.js, Express, and Socket.IO. It allows users to participate in real-time voting and see the live vote count updates.
 
 ### Features
@@ -17,21 +17,29 @@ Clone the repository:
 git clone https://github.com/yousufalii/pollcast.git
 `````
 Install the dependencies for both the client and server:
+`````
 cd pollcast/client
 npm install
 
 cd ../server
 npm install
+`````
 
 Start the client and server:
-# In the client directory
+##### In the client directory
+````
 npm start
+````
 
-# In the server directory
+##### In the server directory
+````
 npm start
+````
 
 Access the application in your browser:
+```
 http://localhost:3000
+```
 
 ### Usage
 Access the application in your browser using the provided URL.
